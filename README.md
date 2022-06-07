@@ -1,7 +1,5 @@
 # PyBer_Analysis
 
-# PyBer_Analysis
-
 # Analysis Overview
 Continue work from the module in evaluating ride sharing options for the CEO of PyBer ride share.
 Look at differences in ridership, available drivers, and fares depending on the area in which the service is being used
